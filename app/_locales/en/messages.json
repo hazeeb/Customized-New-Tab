@@ -1,0 +1,12 @@
+{
+  "appName": {
+    "message": "New tab",
+    "description": "The name of the application",
+    "default_locale": "en"
+
+  },
+  "appDescription": {
+    "message": "Override the default new tab style",
+    "description": "The description of the application"
+  }
+}

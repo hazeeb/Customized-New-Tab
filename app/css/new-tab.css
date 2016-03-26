@@ -1,0 +1,45 @@
+body {
+  background-image: url("/img/bg.jpg");
+}
+.keepcentered {
+  width : 640px;
+  height : 300px;
+  margin-left : auto;
+  margin-right : auto;
+  margin-top: 200px;
+  font-weight : 100;
+}
+body {
+  font-family: 'Electrolize', sans-serif;
+  font-style : normal; 
+  margin : 5px;
+}
+
+div#time { font-size: 72px; }
+div.history {
+  position: absolute;
+  top: 0;
+  left: 0;
+  padding: 10px;
+  width: 45%;
+  display: none;
+}
+.greetings{
+  font-size: 25px; 
+}
+.website{
+  font-size: 20px;
+}
+#websites{
+  padding-top: 25px;
+}
+a{
+  color: #fff;
+}
+a:hover{
+  color: #000;
+}
+.link-icons{
+  padding-left: 30px;
+  padding-right: 30px;
+}

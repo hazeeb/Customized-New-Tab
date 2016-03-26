@@ -1,0 +1,10 @@
+{
+    "name": "My New Tab",
+    "description": "Override the boring white background in new tab.",
+    "default_locale" : "en",
+    "version": "0.1",
+    "incognito": "split",
+    "chrome_url_overrides": { "newtab": "tab.html" },
+    "permissions": ["bookmarks", "history", "storage"],
+    "manifest_version": 2
+}
